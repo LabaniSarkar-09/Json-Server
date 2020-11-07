@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "first": "Labani",
+      "lastname": "Sarkar",
+      "eid": "123@gmail.com",
+      "dob": "1999-03-23",
+      "country": "India",
+      "imagepath": "https://static.pexels.com/photos/7357/startup-photos.jpg"
+    },
+    {
+      "id": 4,
+      "first": "Labani",
+      "lastname": "Sarkar",
+      "eid": "123@gmail.com",
+      "dob": "1999-03-23",
+      "country": "India",
+      "imagepath": "https://static.pexels.com/photos/7357/startup-photos.jpg"
+    },
+    {
+      "id": 3,
+      "first": "Labani",
+      "lastname": "Sarkar",
+      "eid": "123@gmail.com",
+      "dob": "1999-03-23",
+      "country": "India",
+      "imagepath": "https://static.pexels.com/photos/7357/startup-photos.jpg"
+    },
+    {
+      "id": 5,
+      "first": null,
+      "lastname": "Kumar",
+      "eid": null,
+      "dob": "2020-10-15",
+      "country": "",
+      "imagepath": null
+    },
+    {
+      "id": 6,
+      "first": null,
+      "lastname": "Kumar",
+      "eid": null,
+      "dob": "2020-11-07",
+      "country": "",
+      "imagepath": null
+    },
+    {
+      "id": 7,
+      "first": "",
+      "lastname": "",
+      "eid": "",
+      "dob": "",
+      "country": "",
+      "imagepath": ""
+    }
+  ]
+}
